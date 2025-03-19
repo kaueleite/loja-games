@@ -23,7 +23,7 @@ body {
 header {
     background-image: url(imagens/foto-capa.jpg);
     height: 945px;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center center;
     background-size: cover;
 }
